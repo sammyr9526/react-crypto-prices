@@ -2,6 +2,7 @@
   "name": "react-crypto-prices",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sammyr9526.github.io/react-crypto-prices/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
